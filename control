@@ -1,0 +1,9 @@
+Package: live.calicocat.pagebar
+Name: Pagebar
+Depends: mobilesubstrate, me.nepeta.libcolorpicker
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Make your page dots yours
+Maintainer: calicocat
+Author: calicocat
+Section: Tweaks
